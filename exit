@@ -1,0 +1,11 @@
+[33mcommit ca19db8728598204fc42e242cfb83822be50207d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Samir Shrestha <samir.shrestha2133@gmail.com>
+Date:   Mon Jul 15 13:37:27 2024 +0545
+
+    Second update with Diff but haven't added sum.py to staging stage
+
+[33mcommit a60168cf6fbcf1e483ab02bf674dfb3b051d28b5[m
+Author: Samir Shrestha <samir.shrestha2133@gmail.com>
+Date:   Mon Jul 15 11:00:49 2024 +0545
+
+    initial commit
